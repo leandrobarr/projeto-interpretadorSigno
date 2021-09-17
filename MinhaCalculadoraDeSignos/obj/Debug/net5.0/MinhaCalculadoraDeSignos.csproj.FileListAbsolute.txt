@@ -1,0 +1,16 @@
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\net5.0\MinhaCalculadoraDeSignos.exe
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\net5.0\MinhaCalculadoraDeSignos.deps.json
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\net5.0\MinhaCalculadoraDeSignos.runtimeconfig.json
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\net5.0\MinhaCalculadoraDeSignos.runtimeconfig.dev.json
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\net5.0\MinhaCalculadoraDeSignos.dll
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\net5.0\ref\MinhaCalculadoraDeSignos.dll
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\net5.0\MinhaCalculadoraDeSignos.pdb
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.csproj.AssemblyReference.cache
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.AssemblyInfoInputs.cache
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.AssemblyInfo.cs
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.csproj.CoreCompileInputs.cache
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.dll
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\net5.0\ref\MinhaCalculadoraDeSignos.dll
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.pdb
+C:\Users\leabarros\C#-projets\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\net5.0\MinhaCalculadoraDeSignos.genruntimeconfig.cache
